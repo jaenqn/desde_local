@@ -51,4 +51,5 @@ Temporary Items
 application/cache/sessions/*
 user_guide/*
 docs/*
+sftp-config.json
 application/views/compiled/*
