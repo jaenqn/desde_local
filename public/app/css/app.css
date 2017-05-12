@@ -1,0 +1,17 @@
+.btn-appdos {
+      border-radius: 3px;
+    position: relative;
+    padding: 4px 5px;
+     margin: 0 3px 0px 3px;
+    min-width: 25px;
+    height: 25px;
+    text-align: center;
+    color: rgb(102, 102, 102);
+    border: 1px solid rgb(221, 221, 221);
+    background-color: rgb(244, 244, 244);
+    font-size: 12px;
+}
+.btn-appdos>.fa, .btn-appdos>.glyphicon, .btn-appdos>.ion {
+        font-size: 16px;
+    display: block;
+}
